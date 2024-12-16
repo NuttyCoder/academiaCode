@@ -1,0 +1,32 @@
+Week 1: Introduction to Generative AI
+Day 1-2: Overview of AI and Generative AI
+Lecture: Understanding AI and Its Evolution
+
+Artificial Intelligence (AI): AI is the simulation of human intelligence in machines designed to think and learn like humans. It encompasses a wide range of technologies, from simple rule-based systems to complex neural networks.
+
+Generative AI: A subset of AI focused on creating new content—be it text, images, or sounds. Unlike traditional AI, which often classifies or predicts based on input data, generative AI produces novel outputs.
+
+Key Concepts:
+
+Machine Learning (ML): A method of data analysis that automates analytical model building. It’s a subset of AI based on the idea that systems can learn from data, identify patterns, and make decisions with minimal human intervention.
+
+Deep Learning (DL): A subset of ML involving neural networks with three or more layers. These neural networks attempt to simulate the behavior of the human brain to solve complex data-driven problems.
+
+Neural Networks: Systems of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates.
+
+Activity: Discussion and Research
+
+Discussion: What are some real-world applications of AI and generative AI? Examples include chatbots, recommendation systems, content creation tools, and more.
+
+Research: Find and summarize an example of generative AI in action. Present your findings to the class.
+
+Day 3-4: Introduction to Python Programming
+Lecture: Python Fundamentals
+
+Python Basics: Python is a high-level, interpreted programming language known for its readability and simplicity. Key features include:
+
+Data Types: Integer, float, string, list, tuple, dictionary, etc.
+
+Variables: Containers for storing data values.
+
+Operators: Arithmetic, comparison, logical, etc.
